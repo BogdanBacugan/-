@@ -39,6 +39,8 @@
 
 ### Настройка
 
+### Результат.
+
 ![image](https://github.com/user-attachments/assets/5cf1493a-6577-4744-918d-b43f544b957d)
 
 ### Выводы
@@ -47,6 +49,8 @@
 ## Лабораторная работа №3
 
 ### Создание нового репозитория
+
+### Результат.
 
 ![image](https://github.com/user-attachments/assets/2cd1228a-aca4-40c2-8218-9181f3d29420)
 
@@ -57,6 +61,8 @@
 
 ### Подготовка файлов
 
+### Результат.
+
 ![image](https://github.com/user-attachments/assets/0d7bc1a4-ee9c-470b-99a6-cb1d851d21df)
 
 ### Выводы
@@ -65,6 +71,8 @@
 ## Лабораторная работа №5
 
 ### Фиксация изменений
+
+### Результат.
 
 ![image](https://github.com/user-attachments/assets/e143d064-6470-426e-8854-eae5e5b78ab2)
 
@@ -75,6 +83,8 @@
 
 ### Подключение к удаленному репозиторию
 
+### Результат.
+
 ![image](https://github.com/user-attachments/assets/1fd77a60-61ae-48b0-aa7e-67d77d2c59e9)
 
 ### Выводы 
@@ -83,6 +93,8 @@
 ## Лабораторная работа №7
 
 ### Ветвление
+
+### Результат.
 
 ![image](https://github.com/user-attachments/assets/da0635cf-6502-430c-85a8-5b12a5196e03)
 
@@ -93,6 +105,8 @@
 
 ### Особенности применения "Фетч"
 
+### Результат.
+
 ![image](https://github.com/user-attachments/assets/25e4d490-9a33-4aef-9876-6d584030c784)
 
 ### Выводы
@@ -101,6 +115,8 @@
 ## Лабораторная работа №9
 
 ### Удаление файлов, веток, локальных и удаленных репозиториев
+
+### Результат.
 
 ![image](https://github.com/user-attachments/assets/c28b3a8a-82c8-445e-86e8-241b35d2edde)
 
@@ -111,6 +127,8 @@
 
 ### Отслеживание изменений в коммитах
 
+### Результат.
+
 ![image](https://github.com/user-attachments/assets/ab11b639-a23c-4e40-a742-265c91ad1264)
 
 ### Выводы 
@@ -119,6 +137,8 @@
 ## Лабораторная работа №11
 
 ### Возвращение файла к предыдущему состоянию
+
+### Результат.
 
 ![image](https://github.com/user-attachments/assets/b130adae-a69b-436e-8dde-16c18354ece3)
 
@@ -129,6 +149,8 @@
 
 ### Возвращение к предыдщему коммиту
 
+### Результат.
+
 ![image](https://github.com/user-attachments/assets/6d472b1d-9b30-401d-877b-622a4db43e63)
 
 ### Выводы
@@ -138,6 +160,8 @@
 
 ### Исправление коммита
 
+### Результат.
+
 ![image](https://github.com/user-attachments/assets/34daf5be-58d3-44fb-a4a7-f54f240ef3be)
 
 ### мы научились имправлять коммит, при помощи редактора, благодаря командлету "git commit --amend"
@@ -145,6 +169,8 @@
 ## Лабораторная работа №14
 
 ### Разрешение конфликтов при слиянии
+
+### Результат.
 
 ![image](https://github.com/user-attachments/assets/cc9eee61-10e1-41aa-9c95-719ba1e5abad)
 
@@ -154,6 +180,8 @@
 ## Лабораторная работа №15
 
 ### Настройка .gitignore
+
+### Результат.
 
 ![image](https://github.com/user-attachments/assets/f9e713ff-bde7-4827-a440-57cf6d74a52f)
 
